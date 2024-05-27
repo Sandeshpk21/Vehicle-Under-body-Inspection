@@ -1,0 +1,23 @@
+{
+  "roi_label_1": ["RH LOWERARM REAR SIDE TO SUBFRAME", [403, 1028, 477, 1080]],
+  "roi_label_2": ["LH FR SUBFRAME REAR SIDE TO BODY", [1239, 1020, 1320, 1080]],
+  "roi_label_3": ["UNDERCOVER FITMEMT", [802, 719, 889, 806]],
+  "roi_label_4": ["UNDERCOVER FITMEMT", [1229, 509, 1316, 596]],
+  "roi_label_5": ["UNDERCOVER FITMEMT", [1000, 704, 1087, 791]],
+  "roi_label_6": ["UNDERCOVER FITMEMT", [374, 530, 461, 617]],
+  "roi_label_7": ["UNDERCOVER FITMEMT", [604, 713, 691, 800]],
+  "roi_label_8": ["UNDERCOVER FITMEMT", [348, 212, 408, 273]],
+  "roi_label_9": ["UNDERCOVER FITMEMT", [1269, 206, 1329, 267]],
+  "roi_label_10": ["RH SIDE FRONT BUMPER", [261, 205, 318, 272]],
+  "roi_label_11": ["RH SIDE FRONT BUMPER", [264, 90, 321, 157]],
+  "roi_label_12": ["RH SIDE FRONT BUMPER", [272, 34, 318, 80]],
+  "roi_label_13": ["UNDERCOVER RIGHTREAR SIDE", [421, 10, 477, 67]],
+  "roi_label_14": ["UNDERCOVER RIGHTREAR SIDE", [1204, 1, 1260, 57]],
+  "roi_label_15": ["UNDERCOVER RIGHTREAR SIDE", [946, 5, 1002, 62]],
+  "roi_label_16": ["UNDERCOVER RIGHTREAR SIDE", [676, 4, 732, 61]],
+  "roi_label_17": ["UNDERCOVER RIGHTREAR SIDE", [808, 7, 864, 64]],
+  "roi_label_18": ["ENGINE UNDERCOVER", [420, 263, 469, 308]],
+  "roi_label_19": ["ENGINE UNDERCOVER", [420, 477, 469, 522]],
+  "roi_label_20": ["ENGINE UNDERCOVER", [726, 585, 799, 656]],
+  "roi_label_21": ["ENGINE UNDERCOVER", [678, 236, 750, 306]]
+}
