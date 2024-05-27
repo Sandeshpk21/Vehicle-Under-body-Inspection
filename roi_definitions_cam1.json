@@ -1,6 +1,0 @@
-{
-  "roi_label_1": ["REAR LH SHOCKABSORBER", [647, 390, 759, 443]],
-  "roi_label_2": ["REAR LH COIL SPRING", [895, 303, 964, 430]],
-  "roi_label_3": ["LH REAR SHOCK ABSORBER TO AXLE BOLT", [671, 489, 761, 575]],
-  "roi_label_4": ["REAR LH INTERMEDIATE FLEXABLE HOSE", [1766, 204, 1825, 259]]
-}
